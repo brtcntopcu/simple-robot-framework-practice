@@ -7,7 +7,7 @@
 ```shell
 pip install robotframework
 ```
-3. Download ChromeDriver from [here](https://chromedriver.chromium.org/downloads). Then link your chromedriver.exe like that:
+3. Download ChromeDriver from [here](https://chromedriver.chromium.org/downloads).
 
 
 
